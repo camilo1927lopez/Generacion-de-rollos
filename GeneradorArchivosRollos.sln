@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorArchivosRollos", "GeneradorArchivosRollos\GeneradorArchivosRollos.csproj", "{34F41D52-B91E-4624-94EC-0C7AF1598365}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorGeneradorArchivosRollos", "InstaladorGeneradorArchivosRollos\InstaladorGeneradorArchivosRollos.vdproj", "{13F336BF-7DCF-4E9F-BA28-E8CE688D747D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F41D52-B91E-4624-94EC-0C7AF1598365}.Debug|x86.ActiveCfg = Debug|x86
+		{34F41D52-B91E-4624-94EC-0C7AF1598365}.Debug|x86.Build.0 = Debug|x86
+		{34F41D52-B91E-4624-94EC-0C7AF1598365}.Release|x86.ActiveCfg = Release|x86
+		{34F41D52-B91E-4624-94EC-0C7AF1598365}.Release|x86.Build.0 = Release|x86
+		{13F336BF-7DCF-4E9F-BA28-E8CE688D747D}.Debug|x86.ActiveCfg = Debug
+		{13F336BF-7DCF-4E9F-BA28-E8CE688D747D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.20.100.234:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GeneradorArchivosRollos\\GeneradorArchivosRollos.csproj
+		SccProjectName1 = GeneradorArchivosRollos
+		SccLocalPath1 = GeneradorArchivosRollos
+		SccProjectUniqueName2 = InstaladorGeneradorArchivosRollos\\InstaladorGeneradorArchivosRollos.vdproj
+		SccProjectName2 = InstaladorGeneradorArchivosRollos
+		SccLocalPath2 = InstaladorGeneradorArchivosRollos
+	EndGlobalSection
+EndGlobal
